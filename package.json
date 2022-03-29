@@ -2,6 +2,7 @@
 	"author": "Ezekiel Gray",
 	"name": "fcc-learn-npm-package-json",
 	"description": "this is the description",
+	"keywords": [ "freecodecamp", "learn-npm", "package-json"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
